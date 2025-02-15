@@ -19,22 +19,22 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 204 # Get this value from my.telegram.org/apps
-    API_HASH = ""
+    API_ID = 26763964# Get this value from my.telegram.org/apps
+    API_HASH = "4bfa8c13c51296de32eef07bcb272467"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres:"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -100
-    MESSAGE_DUMP = -100
+    EVENT_LOGS = -1002453612342
+    MESSAGE_DUMP = -1002453612342
 
     # MongoDB configuration
     MONGO_DB_URI = ""
 
     # Support chat and support ID
-    SUPPORT_CHAT = ""
-    SUPPORT_ID = -100
+    SUPPORT_CHAT = "TFW_BOTS"
+    SUPPORT_ID = -1002067068147
 
     # Database name
     DB_NAME = ""
