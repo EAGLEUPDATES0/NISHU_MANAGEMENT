@@ -51,7 +51,7 @@ sudo apt-get install python3-pip -y          # 2. Install Required Packages
 
 sudo pip3 install -U pip          # 3. Upgrade Pip
 
-git clone https://github.com/Infamous-Hydra/YaeMiko && cd YaeMiko           # 4. Clone the Repository
+git clone https://github.com/EAGLEUPDATES0/NISHU_MANAGEMENT && cd NISHU_MANAGEMENT           # 4. Clone the Repository
 
 pip3 install -U -r requirements.txt          # 5. Install Required Packages
 
@@ -70,20 +70,14 @@ python3 -m Mikobot         # 8. Run the Bot
 <p align="center">Click the button below to deploy YAE ダ MIKO on Heroku and enjoy its enhanced features and user-friendly interface!</p>
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Nishubots/NISHU_MANAGEMENT">
+    <a href="https://heroku.com/deploy?template=https://github.com/EAGLEUPDATES0/NISHU_MANAGEMENT">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
 </p>
 
 <h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
 
-## CREDITS
-+ [Karma](https://github.com/Infamous-Hydra)
-+ [PaulSonOfLars](https://github.com/PaulSonOfLars)
-+ [lostb053](https://github.com/lostb053) > Anime
-+ [TheHamkerCat](https://github.com/TheHamkerCat) > Python-Arq
-+ [ProjectCodeX](https://github.com/Team-ProjectCodeX) > Modules
 
-Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)  or submit a pull request.
+Others in the commit history and files. If anything is missing, feel free to  [![gmail](https://img.shields.io/badge/mail-Here-red?style=for-the-badge&logo=gmail)](mailto:jhjhjh0026@gmail.com)  or submit a pull request.
 
-> Try this bot [@YaeMiko_Roxbot](https://t.me/YaeMiko_Roxbot); it's made with this repository for demonstration purposes.
+> Try this bot [@YaeMiko_Roxbot](https://t.me/EAGLEUPDATES0); it's made with this repository for demonstration purposes.
